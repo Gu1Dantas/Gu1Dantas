@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">Hello world! Estou cursando Engenharia de computação, estou atualmente no 7° peridodo, estou buscando me profissionalizar e melhorar como desenvolvedor back-end, estou estudando java e python</p>
+<p align="left">Hello world! Estou cursando Engenharia de computação, estou atualmente no 7° periodo, estou buscando me profissionalizar e melhorar como desenvolvedor back-end, estou estudando java e python</p>
 
 ###
 
